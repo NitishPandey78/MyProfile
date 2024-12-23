@@ -12,9 +12,14 @@ Contact Form: A fully functional contact form for visitors to send messages. (No
 Responsive Design: The website is fully responsive, providing a seamless experience across all devices, including mobile, tablet, and desktop screens.
 
 Technologies Used:
+
 HTML5, CSS3, JavaScript (ES6), jQuery
+
 Bootstrap 4 for responsive grid layout and components
+
 Typed.js for dynamic text animations
+
 Isotope.js for portfolio filtering
+
 Purpose:
 This portfolio website highlights Nitish's expertise and projects, offering a user-friendly, interactive, and visually appealing platform for potential employers, clients, and collaborators to get in touch.
